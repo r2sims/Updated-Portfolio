@@ -1,5 +1,5 @@
 ![Screen Shot 2021-07-08 at 7 37 20 PM](https://user-images.githubusercontent.com/82478765/125003277-d9a75a00-e024-11eb-8e01-068ea6028d64.png)
-![Screen Shot 2021-07-08 at 7 37 20 PM](https://user-images.githubusercontent.com/82478765/125003349-09566200-e025-11eb-9073-cf20742a8ef5.png)
+
 # Unit 08 Project 1 Homework: Professional Materials
 
 Now that you've had some practice with APIs and have a project to share, you'll be updating your portfolio page and other materials to build toward being employer-competitive.
